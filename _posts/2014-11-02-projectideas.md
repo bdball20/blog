@@ -11,8 +11,8 @@ title: Project Ideas
 Ideas for final project. 
 
 ![]({{ site.url }}/blog/images/macallancasks.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4906.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4913.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4914.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4916.JPG)
-![]({{ site.url }}/blog-template/images/IMG_4920.JPG)
+![]({{ site.url }}/blog/images/IMG_4906.JPG)
+![]({{ site.url }}/blog/images/IMG_4913.JPG)
+![]({{ site.url }}/blog/images/IMG_4914.JPG)
+![]({{ site.url }}/blog/images/IMG_4916.JPG)
+![]({{ site.url }}/blog/images/IMG_4920.JPG)
