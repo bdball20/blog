@@ -11,8 +11,8 @@ title: Project Ideation
 I am thinking about using drop pins to show places that people enjoy in their hometowns. 
 
 ![]({{ site.url }}/blog/images/IMG_4926.JPG)
-![]({{ site.url }}/blog/images/IMG_4923.JPG)
-![]({{ site.url }}/blog/images/IMG_4924.JPG)
+![]({{ site.url }}/blog/images/IMG_4927.JPG)
+
 
 
 
