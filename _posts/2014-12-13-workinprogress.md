@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project App Ideas
+title: Work in Progress
 ---
 
 {{ page.title }}
