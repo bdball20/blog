@@ -14,3 +14,6 @@ Interactive map of the places I recommend to visit in Atlanta, GA using Tableau 
 Using Mapbox, Donna mapped the locations of her visit to Boston. She then used those locations to make a necklacle. 
 
 ![]({{ site.url }}/blog/images/IMG_2001.JPG)
+Donna and I are both fans of music, so we decided to map the different sounds of the world, through a record prototoype. The idea would be that while the needle on the record moves to different locations/countries, local music from that location would play. 
+
+![]({{ site.url }}/blog/images/IMG_Record.JPG)
